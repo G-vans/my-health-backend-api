@@ -1,52 +1,150 @@
 {
-  "toys": [
+  "medications": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Abacavir",
+      "form": "Tablet",
+      "retail": 1200,
+      "price": 60,
+      "savings": 1140
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Abiraterone",
+      "form": "Tablet",
+      "retail": 1500,
+      "price": 400,
+      "savings": 1100
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Acyclovir",
+      "form": "Tablet",
+      "retail": 600,
+      "price": 60,
+      "savings": 540
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Amantadine",
+      "form": "Capsule",
+      "retail": 500,
+      "price": 60,
+      "savings": 440
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Amocillin",
+      "form": "Capsule",
+      "retail": 500,
+      "price": 40,
+      "savings": 460
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Albuterol",
+      "form": "Inhaler",
+      "retail": 600,
+      "price": 100,
+      "savings": 500
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Benzonatate",
+      "form": "Capsule",
+      "retail": 2500,
+      "price": 600,
+      "savings": 1900
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Alfuzosin",
+      "form": "Tablet",
+      "retail": 800,
+      "price": 200,
+      "savings": 600
+    },
+    {
+      "name": "amoxilin",
+      "form": "capsule",
+      "retail": "400",
+      "price": "44",
+      "savings": "4444",
+      "id": 9
+    },
+    {
+      "name": "amoxilin",
+      "form": "tablet",
+      "retail": "444",
+      "price": "44",
+      "savings": "1234",
+      "id": 10
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Owino",
+      "hospital": "KNH",
+      "contact": 712345678,
+      "speciality": "Neurosurgeon",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Kobas",
+      "hospital": "KNH",
+      "contact": 712345678,
+      "speciality": "Neurosurgeon",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Kadu",
+      "hospital": "KNH",
+      "contact": 712345678,
+      "speciality": "Paedetrician",
+      "status": "Leave"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Wambui",
+      "hospital": "KNH",
+      "contact": 712345678,
+      "speciality": "Optimologist",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Wairimo",
+      "hospital": "KNH",
+      "contact": 712345678,
+      "speciality": "Dentist",
+      "status": "Leave"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Nyaga",
+      "hospital": "KNH",
+      "contact": 712345678,
+      "speciality": "Pharmacist",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Ndiege",
+      "hospital": "KNH",
+      "contact": 712345678,
+      "speciality": "Gynaecologist",
+      "status": "Leave"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Kamau",
+      "hospital": "KNH",
+      "contact": 712345678,
+      "speciality": "Neurosurgeon",
+      "status": "Active"
     }
   ]
 }
